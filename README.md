@@ -17,3 +17,4 @@ The way the conversion happens is the following:
 ## Updates to (potentially) add
 - Add an interface to be able to convert games.
 - Add more parsers such as json2pgn, fen2json, fen2pgn, etc
+- Make a library out of this and rewrite in TypeScript.
