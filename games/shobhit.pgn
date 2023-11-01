@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.03"]
+[Round "-"]
+[White "ilfa2004"]
+[Black "shbhtngpl"]
+[Result "0-1"]
+[CurrentPosition "4Rn1k/6pp/p4p2/8/1q6/2P4P/P4PP1/7K b - -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.Nf3-d5-3.exd5-cxd5"]
+[UTCDate "2023.10.03"]
+[UTCTime "15:58:08"]
+[WhiteElo "1430"]
+[BlackElo "1460"]
+[TimeControl "600"]
+[Termination "shbhtngpl won by resignation"]
+[StartTime "15:58:08"]
+[EndDate "2023.10.03"]
+[EndTime "16:05:53"]
+[Link "https://www.chess.com/game/live/90087641625"]
+[WhiteUrl "https://www.chess.com/bundles/web/images/noavatar_l.84a92436.gif"]
+[WhiteCountry "56"]
+[WhiteTitle ""]
+[BlackUrl "https://images.chesscomfiles.com/uploads/v1/user/245665221.a9537db3.50x50o.c04ab255dc58.jpg"]
+[BlackCountry "69"]
+[BlackTitle ""]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Bb5+ Nc6 5. Ne5 Bd7 6. Nxd7 Qxd7 7. Qf3 a6 8.
+Ba4 e5 9. O-O e4 10. Qg3 f6 11. Re1 Bd6 12. Qe3 Nge7 13. d3 O-O 14. dxe4 dxe4
+15. Qxe4 Ng6 16. Bxc6 bxc6 17. Be3 Kh8 18. Nc3 Qc7 19. h3 Bh2+ 20. Kh1 Bd6 21.
+Rad1 Rad8 22. Na4 c5 23. Bxc5 Bxc5 24. Rxd8 Rxd8 25. Nxc5 Qxc5 26. Qe8+ Rxe8 27.
+Rxe8+ Nf8 28. b4 Qxb4 29. c3 0-1
